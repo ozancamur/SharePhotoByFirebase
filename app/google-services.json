@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309739785049",
+    "project_id": "sharephotosbyfirebase",
+    "storage_bucket": "sharephotosbyfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309739785049:android:d5d9a8ee571a273ea19a48",
+        "android_client_info": {
+          "package_name": "com.ozancamur.sharephotosbyfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309739785049-0barn7ce3u7ln5mdrlj8k6fic5scd6nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEiyjhsVZ_NmNkhWxI_msx3cxkOD-R4jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309739785049-0barn7ce3u7ln5mdrlj8k6fic5scd6nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
